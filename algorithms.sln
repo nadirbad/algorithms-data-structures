@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two-sum", "two-sum\two-sum.csproj", "{3192A0C8-DF98-4058-8F52-65E2C6A7C358}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "postfix-calculator", "postfix-calculator\postfix-calculator.csproj", "{43C35676-0FF3-4CF1-9D6D-EAD23379E960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3192A0C8-DF98-4058-8F52-65E2C6A7C358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3192A0C8-DF98-4058-8F52-65E2C6A7C358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3192A0C8-DF98-4058-8F52-65E2C6A7C358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3192A0C8-DF98-4058-8F52-65E2C6A7C358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43C35676-0FF3-4CF1-9D6D-EAD23379E960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C35676-0FF3-4CF1-9D6D-EAD23379E960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C35676-0FF3-4CF1-9D6D-EAD23379E960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C35676-0FF3-4CF1-9D6D-EAD23379E960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA476010-5B70-4297-9AB5-97DD8E641362}
+	EndGlobalSection
+EndGlobal
